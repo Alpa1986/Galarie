@@ -1,6 +1,6 @@
 ## Bananenbrot: 
 
-- 3 reife Bananen
+- 2 reife Bananen
 - 2 Eier
 - 35 - 50 g Zucker
 - 80 ml Pflanzenöl
