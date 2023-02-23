@@ -4,7 +4,6 @@ Aufgabe Test
 
 ## Zutaten für Bananenbrot: 
 
-:
 
 - 3 reife Bananen
 - 2 Eier
